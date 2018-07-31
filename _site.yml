@@ -1,7 +1,7 @@
-name: "L. Han"                                  # CHANGE HERE
+name: "L.Han"                                  # CHANGE HERE
 output_dir: "."
 navbar:
-  title: "L. Han"
+  title: "L.Han"
   left:
     - text: "Profile"
       icon: fa-hashtag
