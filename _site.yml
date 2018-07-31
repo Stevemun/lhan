@@ -17,11 +17,11 @@ navbar:
       href: Interests.html
   right:
     - icon: fa-envelope-o
-      href: ilef2046@gmail.com                     # CHANGE HERE
+      href: mailto:ilef2046@gmail.com                     # CHANGE HERE
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/hanl10/
-    - icon: fa-weixin
-      href: cheoeum
+    - icon: fa-google-plus
+      href: https://google.com/+CheoeumHan
     - icon: fa-github
       href: https://github.com/Stevemun     # CHANGE HERE
 output:
