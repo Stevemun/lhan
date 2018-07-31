@@ -11,5 +11,5 @@ When you have a problem in R:
 
 Some guidelines and resources are available at [SO](https://stackoverflow.com/tags/r/info).
 
-We also propose to reference all the unanswered [r] questions of our members so that we can all answer them. For that, you just have to give your SO ID in your member infos. If you want to add one, please [email me](mailto::florian.prive@univ-grenoble-alpes.fr).
+We also propose to reference all the unanswered [r] questions of our members so that we can all answer them. For that, you just have to give your SO ID in your member infos. If you want to add one, please [email me](mailto::ilef2046@gmail.com).
 

@@ -1,27 +1,29 @@
-name: "R in Pharma"                                  # CHANGE HERE
+name: "L. Han"                                  # CHANGE HERE
 output_dir: "."
 navbar:
-  title: "R in Pharma"
+  title: "L. Han"
   left:
-    - text: "Workshops"
-      icon: fa-comments-o
-      href: sessions.html
-    - text: "Talks"
-      icon: fa-users
-      href: sessions.html
-    - text: "Keynotes"
-      icon: fa-user
-      href: keynotes.html
-    - text: "Logistics"
-      icon: fa-plane
-      href: orga.html
+    - text: "Profile"
+      icon: fa-hashtag
+      href: Profile.html
+    - text: "Education"
+      icon: fa-hashtag
+      href: Education.html
+    - text: "Work Experience"
+      icon: fa-hashtag
+      href: Work_Experience.html
+    - text: "Interests"
+      icon: fa-hashtag
+      href: Interests.html
   right:
     - icon: fa-envelope-o
-      href: mailto:info@rinpharma.com                     # CHANGE HERE
-    - icon: fa-twitter
-      href:
+      href: ilef2046@gmail.com                     # CHANGE HERE
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/hanl10/
+    - icon: fa-weixin
+      href: cheoeum
     - icon: fa-github
-      href: https://github.com/rinpharma         # CHANGE HERE
+      href: https://github.com/Stevemun     # CHANGE HERE
 output:
   html_document:
     theme: cosmo

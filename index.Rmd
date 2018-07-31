@@ -1,17 +1,17 @@
 ---
-title: "Welcome to R in Pharma"
+title: "Chao!"
 output:
   html_document:
     includes:
       in_header: cover.html
 ---
 
-## This is the website for the inugural R in Pharma conference.
+## This is an experimental personal website.
 
 **Highlights**
 
-* Pre-conference workshops on this and that
-* Sessions from diverse work streams ranging from bioinformatics, regulatory submissions and real world evidence
-* Keynote speakers who are leaders in pharma
+* Bullet 1
+* Bullet 2
+* Bullet 3
 
-**Coming to the east coast in Summer 2018**
+**Comments**
