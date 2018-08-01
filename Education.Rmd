@@ -1,3 +1,9 @@
 ---
-title: "Education"
+title: "**Education**"
 ---
+___
+
+From     | To       | School                                    | Major         |
+-------- | -------- | ----------------------------------------- | ------------- |
+2004.08  | 2005.10  | University of Hertfordshire, Hatfield, UK | Pharmacology  |
+2000.09  | 2004.07  | Fudan University, Shanghai, China         | Pharmacy      |

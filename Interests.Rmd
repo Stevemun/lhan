@@ -1,4 +1,22 @@
 ---
-title: "Interests"
+title: "**Interests**"
 ---
+___
+
+## **`Professional`**
+> + Data Wrangling
+> + Data Visualization
+> + Date Curation
+> + Powerpoint animation
+> + Infographic design
+
+___
+
+## **`Leisure`**
+> + Boardgame
+> + Hiking
+> + Piano
+> + Cooking
+> + Coffee
+
 
