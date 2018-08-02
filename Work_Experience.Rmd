@@ -1,3 +1,17 @@
 ---
-title: "Work Experience"
+title: "**Work Experience**"
 ---
+___
+
+
+From     | To       | Company         | Position                     | Main Responsibilities       
+-------- | -------- | --------------- | ---------------------------- | ---------------------------------- |
+<b>2016.04</b>  | <b>Now</b>      | <b>Roche (Pharma)</b>  | <b>Manager of Late Onco, CDM</b>    | <b>Line Manager for a group of mixed roles inc. SDM, CP & DAS</b> |
+2012.06  | 2016.04  | -               | Manager of DDE, CDM          | - Line Manager for a group of CP </br> - Resourcing Manager for global database build  |
+2010.12  | 2012.05  | -               | Clinical Programmer, CDM     |                                    |
+2008.10  | 2010.12  | PAREXEL (CRO)   | Clinical Programmer, CDM     |                                    |
+2006.09  | 2008.09  | -               | Data Manager, CDM            |                                    |
+
+___
+
+### Archievements
